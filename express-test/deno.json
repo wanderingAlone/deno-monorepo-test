@@ -1,0 +1,7 @@
+{
+    "name": "@scope/express-test",
+    "version": "0.1.0",
+    "exports": {
+        ".": "./mod.js"
+    }
+}

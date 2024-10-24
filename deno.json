@@ -1,0 +1,6 @@
+{
+    "workspace": ["basic-math", "express-test"],
+    "imports": {
+        "express": "npm:express@4.21.1"
+    }
+}
